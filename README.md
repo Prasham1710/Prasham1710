@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prasham1710
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Reactjsand tailwindcss
+- 
+- 🌱 I’m currently learning Reactjsand ,tailwindcss ,javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
