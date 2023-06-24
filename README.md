@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-three-pi.vercel.app/](https://next-portfolio-three-pi.vercel.app/)
 
-- 💬 Ask me about **React, tailwind ,javascript, next js, firebase,mongo db**
+- 💬 Ask me about **Nextjs,React, tailwind ,javascript, next js, firebase,mongo db**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X9ISDAtj6UOChGRuWzh9B8jGPP1TPsoJ/view?usp=drivesdk](https://drive.google.com/file/d/1X9ISDAtj6UOChGRuWzh9B8jGPP1TPsoJ/view?usp=drivesdk)
 
