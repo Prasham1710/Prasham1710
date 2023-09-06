@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasham Jain</h1>
 <h3 align="center">A passionate  web developer</h3>
 
-- 🌱 I’m currently learning **web-devlopment**
+- 🌱 I’m currently a web developer 
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-three-pi.vercel.app/](https://next-portfolio-three-pi.vercel.app/)
 
