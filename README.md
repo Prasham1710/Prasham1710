@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-three-pi.vercel.app/](https://next-portfolio-three-pi.vercel.app/)
 
-- 💬 Ask me about **Next js, react, javascript**
+- 💬 Ask me about **Next js, react, javascript,typescript**
 
 - 📫 How to reach me **jainprasham17@gmail.com**
 
